@@ -1,0 +1,47 @@
+body{
+    background-color: #EAE5E5;
+}
+
+.header{
+    margin-top: 40px;
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+li{
+    float: left;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+.name-profile{
+    margin-top: 15px;
+}
+
+.navigation{
+    padding-top: 55px;
+}
+
+.body-content{
+    margin-top: 80px;
+}
+
+.profile-picture{
+    border-radius: 100%;
+    filter: grayscale(100%);
+}
+
+.circle-menu{
+    border-radius: 100%;
+}
+
+.circle-menu:hover{
+    opacity: 1;
+}
+
+.body-menu-profile a{
+    text-decoration: none;
+}
